@@ -1,5 +1,23 @@
 # Changelog
 
+## [2.1.0](https://github.com/mdn/interactive-examples/compare/v2.0.0...v2.1.0) (2023-03-25)
+
+
+### Features
+
+* **ci:** 10x faster rebuild of pages ([#2458](https://github.com/mdn/interactive-examples/issues/2458)) ([2e2552d](https://github.com/mdn/interactive-examples/commit/2e2552da3399076287033e6fd7c973157fa4bf05))
+
+
+### Bug Fixes
+
+* **ci:** Fix start-watch command ([#2344](https://github.com/mdn/interactive-examples/issues/2344)) ([6343ab5](https://github.com/mdn/interactive-examples/commit/6343ab5d7c640e00b5405c48dbc50829eef469c6))
+* **css:** Fix 2 contrast issues ([#2452](https://github.com/mdn/interactive-examples/issues/2452)) ([7f7dc1d](https://github.com/mdn/interactive-examples/commit/7f7dc1d3bb9528520fa305d1c1ecb381216fc3af))
+* **css:** fix contrast of 4 css examples ([#2475](https://github.com/mdn/interactive-examples/issues/2475)) ([7845f11](https://github.com/mdn/interactive-examples/commit/7845f1106021ad1a430fc61e6782dae10c3de944))
+* **css:** fix contrast of 9 css examples ([#2469](https://github.com/mdn/interactive-examples/issues/2469)) ([f32a584](https://github.com/mdn/interactive-examples/commit/f32a584cb847b5454270afc94d906de25080bedd))
+* **css:** fix contrast of 9 CSS examples ([#2473](https://github.com/mdn/interactive-examples/issues/2473)) ([19146d0](https://github.com/mdn/interactive-examples/commit/19146d02efe6056c04ba9bfce8aa3deda99621af))
+* **css:** Improve contrast for angle ([#2437](https://github.com/mdn/interactive-examples/issues/2437)) ([685a062](https://github.com/mdn/interactive-examples/commit/685a062b857da427b7ae0322b3121e9b45535f8f))
+* **css:** Remove invalid CSS comment ([#2471](https://github.com/mdn/interactive-examples/issues/2471)) ([6401fe6](https://github.com/mdn/interactive-examples/commit/6401fe6dcab6d78b155ba5f34b971dfe6362e1b1))
+
 ## [2.0.0](https://github.com/mdn/interactive-examples/compare/v1.0.4...v2.0.0) (2023-02-24)
 
 
